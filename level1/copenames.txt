@@ -1,0 +1,8 @@
+cope1 - Approach - Control
+cope2 - Avoid - Control
+cope3 - AmbigApproach - Control
+cope4 - AmbigAvoid - Control
+cope5 - AmbigAll - Control
+cope6 - AmbigApproach - (Avoid + Approach)
+cope7 - AmbigAvoid - (Avoid + Approach)
+cope8 - AmbigAll - (Avoid + Approach)
