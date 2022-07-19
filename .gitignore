@@ -1,3 +1,7 @@
+log
 *.fsf
 !*template*.fsf
 fsl_level1_timingfiles/
+level1_fsf_files
+level2_fsf_files
+behav_data/
