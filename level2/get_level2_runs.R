@@ -1,3 +1,7 @@
+# Ceci Westbrook, 2022
+# This script looks through the files generated in level1/ to identify subjects missing a run from
+# either pretreatment or posttreatment data so that they can be correctly entered into the level2 feats.
+
 library(dplyr)
 setwd('/ix/cladouceur/westbrook-data/Scripts')
 allsubs <- read.table('imaging_subjects.txt')

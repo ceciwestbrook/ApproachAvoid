@@ -1,3 +1,6 @@
+# Ceci Westbrook, 2022
+# File for creating the QC database for use in data examination and exclusion (among other things).
+
 library(tidyverse)
 library(reshape2)
 library(haven)

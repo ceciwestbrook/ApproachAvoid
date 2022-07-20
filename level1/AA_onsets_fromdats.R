@@ -1,3 +1,7 @@
+# Code written by Ceci Westbrook, 2022
+# This file reads in the behav data .dats output by the E-prime script and generates a) FSL 3-column timing files, and b) tsvs to add to the
+# BIDS dataset for future use.
+
 library(gdata)
 library(tidyverse)
 setwd('/ix/cladouceur/westbrook-data/Scripts')

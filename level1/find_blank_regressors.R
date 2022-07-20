@@ -1,3 +1,7 @@
+# Ceci Westbrook, 2022
+# This script looks through the generated timing files and identifies any that are empty (i.e., 0 0 0).
+# Contrasts including these regressors will zero out so need to be identified and excluded.
+
 library(gdata)
 library(tidyverse)
 setwd('/ix/cladouceur/westbrook-data/Scripts')
